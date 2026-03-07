@@ -1,4 +1,4 @@
-# Lightroom CC – Professional Photo Editor
+# Lightroom – Professional Photo Editor
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/960px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" width="200" alt="Lightroom CC icon"/>
